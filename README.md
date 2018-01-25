@@ -1,10 +1,12 @@
 # loklak_artwork
 
+Inline-style: 
+![alt text](/website%20images/loklak_sticker_yellow.png "loklak logo")
+
 ## Artwork and logos of loklak
 
-Artwort was taken from openclipart.org and wikipedia.org.
-They had been modified. The files in this directory are
-not the original one, but the modified.
+The sources of the original artwork was taken from openclipart.org and wikipedia.org. They had been modified. The files in this directory are not the original one, but the modified. 
+
 The source of the modified files are given here:
 
 cow.svg:
