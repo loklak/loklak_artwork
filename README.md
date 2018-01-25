@@ -1,9 +1,16 @@
 # loklak_artwork
 
-Inline-style: 
 ![alt text](/website%20images/loklak_sticker_yellow.png "loklak logo")
 
-## Artwork and logos of loklak
+## Color
+
+The colors of the loklak logo are:
+
+## Font
+
+The font of loklak is:
+
+## Original Sources
 
 The sources of the original artwork was taken from openclipart.org and wikipedia.org. They had been modified. The files in this directory are not the original one, but the modified. 
 
@@ -24,11 +31,3 @@ license: unknown (domain of wikipedia.org)
 message.svg:
 http://commons.wikimedia.org/wiki/File:Messages_Yosemite.svg
 license: CC BY-SA 4.0, artwork uploaded to wikipedia by Chabe01, Source: own work
-
-## Color
-
-The colors of the loklak logo are:
-
-## Font
-
-The font of loklak is:
