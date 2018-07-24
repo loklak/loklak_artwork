@@ -4,7 +4,7 @@
 
 ## Color
 
-The colors of loklak_logo_yellow.png:
+The colors of [loklak_logo_yellow.png](/website%20images/loklak_sticker_yellow.png):
 
 - #fb9b0d `Orange` 
 - #fbf523 `Yellow`
@@ -13,7 +13,7 @@ The colors of loklak_logo_yellow.png:
 - #a3541c `Saddle Brown`
 - #ffffff `White`
 
-The colors of loklak_logo_green.png:
+The colors of [loklak_logo_green.png](/website%20images/loklak_sticker_green.png):
 
 - #09fbfa `Cyan`
 - #f9d94a `Sandy Brown`
