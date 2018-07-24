@@ -13,6 +13,14 @@ The colors of loklak_logo_yellow.png:
 - #a3541c `Saddle Brown`
 - #ffffff `White`
 
+The colors of loklak_logo_green.png:
+
+- #09fbfa `Cyan`
+- #f9d94a `Sandy Brown`
+- #ccd5e0 `Light Steel Blue`
+- #141413 `Black`
+- #6bf974 `Pale Green`
+
 ## Font
 
 The font of loklak is:
