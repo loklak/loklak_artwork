@@ -2,9 +2,27 @@
 
 ![alt text](/website%20images/loklak_sticker_yellow.png "loklak logo")
 
+## Images
+
+No | Name | Source
+---|------|-------
+1  | loklak logo | [PNG](/png/loklak_sticker_yellow.png) [SVG](/svg/loklak_logo.svg) [TIF](/svg/loklak_logo.tif)
+2  | loklak yellow logo | [PNG](/png/loklak_sticker_yellow.png)
+3  | loklak green logo  | [PNG](/png/loklak_sticker_green.png) [SVG](/svg/loklak_sticker_green.svg)
+4  | green logo background | [SVG](/svg/loklak_background_green.svg)
+5  | yellow logo background | [SVG](/svg/loklak_background_yellow.svg)
+6  | cow | [SVG](/svg/cow.svg)
+7  | loop  | [SVG](/svg/loop.svg)
+8  | sticker | [PNG](/website%20images/loklak_sticker_yellow.png) [SVG](/svg/loklak_sticker.svg)
+9  | loklak anonymous | [PNG](/website%20images/loklak_anonymous.png)
+10 | loklak collect | [PNG](/website%20images/loklak_collect.png)
+11 | loklak.org `light` | [PNG](/website%20images/loklak_org.png)
+12 | loklak.org `dark` | [PNG](/website%20images/loklak_org_black.png)
+13 | loklak share | [PNG](/website%20images/loklak_share.png)
+
 ## Color
 
-The colors of [loklak_logo_yellow.png](/website%20images/loklak_sticker_yellow.png):
+The colors of [loklak_logo_yellow.png](/png/loklak_sticker_yellow.png):
 
 
 
@@ -15,7 +33,7 @@ The colors of [loklak_logo_yellow.png](/website%20images/loklak_sticker_yellow.p
 - #a3541c `Saddle Brown`
 - #ffffff `White`
 
-The colors of [loklak_logo_green.png](/website%20images/loklak_sticker_green.png):
+The colors of [loklak_logo_green.png](/png/loklak_sticker_green.png):
 
 - #09fbfa `Cyan`
 - #f9d94a `Sandy Brown`
