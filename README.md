@@ -4,7 +4,7 @@
 
 ## Color
 
-The colors of the loklak logo are:
+The colors of loklak_logo_yellow.png:
 
 - #fb9b0d `Orange` 
 - #fbf523 `Yellow`
