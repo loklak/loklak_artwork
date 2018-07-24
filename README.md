@@ -8,7 +8,7 @@ The colors of [loklak_logo_yellow.png](/website%20images/loklak_sticker_yellow.p
 
 
 
-- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #fb9b0d'></div> #fb9b0d `Orange` 
+- <span  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #fb9b0d'></span> #fb9b0d `Orange` 
 - <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #fbf523'></div>  #fbf523 `Yellow`
 - <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #181513'></div> #181513 `Black`
 - <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #f5aec9'></div> #f5aec9 `Violet`
@@ -33,7 +33,7 @@ The font of loklak is:
 
 ## Original Sources
 
-The sources of the original artwork was taken from openclipart.org and wikipedia.org. They had been modified. The files in this directory are not the original one, but the modified. 
+The sources of the original artwork was taken from openclipart.org and wikipedia.org. They had been modified. The files in this directory are not the original one, but the modified.
 
 The source of the modified files are given here:
 
