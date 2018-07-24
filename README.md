@@ -20,6 +20,7 @@ The colors of loklak_logo_green.png:
 - #ccd5e0 `Light Steel Blue`
 - #141413 `Black`
 - #6bf974 `Pale Green`
+- #ffffff `White`
 
 ## Font
 
