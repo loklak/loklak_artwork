@@ -9,6 +9,7 @@ The colors of the loklak logo are:
 ## Font
 
 The font of loklak is:
+DroidSansMono
 
 ## Original Sources
 
