@@ -6,11 +6,11 @@
 
 The colors of the loklak logo are:
 
-- #fb9b0d  
-- #fbf523 
-- #181513 
-- #f5aec9 
-- #a3541c 
+- #fb9b0d `Orange` 
+- #fbf523 `Yellow`
+- #181513 `Black`
+- #f5aec9 `Violet`
+- #a3541c `Saddle Brown`
 
 ## Font
 
