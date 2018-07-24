@@ -6,6 +6,8 @@
 
 The colors of [loklak_logo_yellow.png](/website%20images/loklak_sticker_yellow.png):
 
+
+
 - #fb9b0d `Orange` 
 - #fbf523 `Yellow`
 - #181513 `Black`
@@ -21,6 +23,16 @@ The colors of [loklak_logo_green.png](/website%20images/loklak_sticker_green.png
 - #141413 `Black`
 - #6bf974 `Pale Green`
 - #ffffff `White`
+
+<style>
+    .box{
+        width:20px;
+        height:20px;
+        border-radius:5px;
+        float:left;
+        margin-right:5px;
+    }
+</style>
 
 ## Font
 
