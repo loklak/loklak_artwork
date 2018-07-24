@@ -8,32 +8,22 @@ The colors of [loklak_logo_yellow.png](/website%20images/loklak_sticker_yellow.p
 
 
 
-- <div class="box" style='background: #fb9b0d'></div> #fb9b0d `Orange` 
-- <div class="box" style='background: #fbf523'></div>  #fbf523 `Yellow`
-- <div class="box" style='background: #181513'></div> #181513 `Black`
-- <div class="box" style='background: #f5aec9'></div> #f5aec9 `Violet`
-- <div class="box" style='background: #a3541c'></div> #a3541c `Saddle Brown`
-- <div class="box" style='background: #ffffff'></div> #ffffff `White`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #fb9b0d'></div> #fb9b0d `Orange` 
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #fbf523'></div>  #fbf523 `Yellow`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #181513'></div> #181513 `Black`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #f5aec9'></div> #f5aec9 `Violet`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #a3541c'></div> #a3541c `Saddle Brown`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #ffffff'></div> #ffffff `White`
 
 The colors of [loklak_logo_green.png](/website%20images/loklak_sticker_green.png):
 
-- <div class="box" style='background: #09fbfa'></div> #09fbfa `Cyan`
-- <div class="box" style='background: #f9d94a'></div> #f9d94a `Sandy Brown`
-- <div class="box" style='background: #ccd5e0'></div> #ccd5e0 `Light Steel Blue`
-- <div class="box" style='background: #141413'></div> #141413 `Black`
-- <div class="box" style='background: #6bf974'></div> #6bf974 `Pale Green`
-- <div class="box" style='background: #ffffff'></div> #ffffff `White`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #09fbfa'></div> #09fbfa `Cyan`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #f9d94a'></div> #f9d94a `Sandy Brown`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #ccd5e0'></div> #ccd5e0 `Light Steel Blue`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #141413'></div> #141413 `Black`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #6bf974'></div> #6bf974 `Pale Green`
+- <div  style='width:20px;height:20px;border-radius:5px;float:left;margin-right:5px;box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4);background: #ffffff'></div> #ffffff `White`
 
-<style>
-    .box{
-        width:20px;
-        height:20px;
-        border-radius:5px;
-        float:left;
-        margin-right:5px;
-        box-shadow:0px 0px 2px 1px rgba(240,240,240,0.4)
-    }
-</style>
 
 ## Font
 
