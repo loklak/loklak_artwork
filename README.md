@@ -11,6 +11,7 @@ The colors of loklak_logo_yellow.png:
 - #181513 `Black`
 - #f5aec9 `Violet`
 - #a3541c `Saddle Brown`
+- #ffffff `White`
 
 ## Font
 
