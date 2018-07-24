@@ -6,9 +6,9 @@
 
 No | Name | Source
 ---|------|-------
-1  | loklak logo | [PNG](/png/loklak_sticker_yellow.png) [SVG](/svg/loklak_logo.svg) [TIF](/svg/loklak_logo.tif)
-2  | loklak yellow logo | [PNG](/png/loklak_sticker_yellow.png)
-3  | loklak green logo  | [PNG](/png/loklak_sticker_green.png) [SVG](/svg/loklak_sticker_green.svg)
+1  | loklak logo | [PNG](/website%20images/loklak_sticker_yellow.png) [SVG](/svg/loklak_logo.svg) [TIF](/svg/loklak_logo.tif)
+2  | loklak yellow logo | [PNG](/png/loklak_logo_yellow.png)
+3  | loklak green logo  | [PNG](/png/loklak_logo_green.png) [SVG](/svg/loklak_sticker_green.svg)
 4  | green logo background | [SVG](/svg/loklak_background_green.svg)
 5  | yellow logo background | [SVG](/svg/loklak_background_yellow.svg)
 6  | cow | [SVG](/svg/cow.svg)
